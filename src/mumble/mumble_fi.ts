@@ -2107,7 +2107,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>&amp;Mask</source>
-        <translation>&amp;Mask</translation>
+        <translation>&amp;Maski</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -2288,7 +2288,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>There was an error generating your certificate.&lt;br /&gt;Please try again.</source>
-        <translation>Sertifikaatin luomisessa oli ongelmia.&lt;br /&gt;Yritä uudelleen.</translation>
+        <translation>Varmenteen luomisessa oli ongelmia.&lt;br /&gt;Yritä uudelleen.</translation>
     </message>
     <message>
         <source>Your certificate and key could not be exported to PKCS#12 format. There might be an error in your certificate.</source>
@@ -2344,7 +2344,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>Certificate password</source>
-        <translation>Sertifikaatin salasana</translation>
+        <translation>Varmenteen salasana</translation>
     </message>
     <message>
         <source>Certificate to import</source>
@@ -2399,7 +2399,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>This will create a new certificate.</source>
-        <translation>Tämä luo uuden sertifikaatin.</translation>
+        <translation>Tämä luo uuden varmenteen.</translation>
     </message>
     <message>
         <source>Import certificate from file</source>
@@ -2407,7 +2407,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>This will import a certificate from file.</source>
-        <translation>Tuo sertifikaatin tiedostosta.</translation>
+        <translation>Tuo varmenteen tiedostosta.</translation>
     </message>
     <message>
         <source>Import a certificate</source>
@@ -2419,7 +2419,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>This will export a certificate to file.</source>
-        <translation>Vie sertifikaatin tiedostoon.</translation>
+        <translation>Vie varmenteen tiedostoon.</translation>
     </message>
     <message>
         <source>Export current certificate</source>
@@ -2431,12 +2431,12 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>PKCS #12 Certificate import</source>
-        <translation>PKCS #12 -sertifikaatin tuonti</translation>
+        <translation>PKCS #12 -varmenteen tuonti</translation>
     </message>
     <message>
         <source>&lt;p&gt;Mumble can import certificates stored in PKCS #12 format. This is the format used when exporting a key from Mumble, and also when exporting keys from Firefox, Internet Explorer, Opera etc.&lt;/p&gt;&lt;p&gt;If the file is password protected, you will need the password to import the certificate.&lt;/p&gt;</source>
         <oldsource>&lt;p&gt;Mumble can import certificates stored in PKCS #12 format. This is the format used when exporting a key from Mumble, and also when exporting keys from FireFox, Internet Explorer, Opera etc.&lt;/p&gt;&lt;p&gt;If the file is password protected, you will need the password to import the certificate.&lt;/p&gt;</oldsource>
-        <translation>&lt;p&gt;Mumbleen voi tuoda sertifikaatteja PKCS #12 -muodossa. Mumble vie tämänmuotoisia sertifikaatteja, kuten myös Firefox, Internet Explorer, Opera jne..&lt;/p&gt;&lt;p&gt;Jos tiedosto on salasanasuojattu, tarvitset salasanan tuodessasi sertifikaatin.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Mumbleen voi tuoda sertifikaatteja PKCS #12 -muodossa. Mumble vie tämänmuotoisia sertifikaatteja, kuten myös Firefox, Internet Explorer, Opera jne..&lt;/p&gt;&lt;p&gt;Jos tiedosto on salasanasuojattu, tarvitset salasanan tuodessasi varmenteen.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Import from</source>
@@ -2448,7 +2448,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>This is the filename you wish to import a certificate from.</source>
-        <translation>Tämä on tiedostonimi, josta haluat tuoda sertifikaatin.</translation>
+        <translation>Tämä on tiedostonimi, josta haluat tuoda varmenteen.</translation>
     </message>
     <message>
         <source>Select file to import from</source>
@@ -2456,7 +2456,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>This opens a file selection dialog to choose a file to import a certificate from.</source>
-        <translation>Avaa tiedostonvalintaikkunan, jossa voit valita mistä tuot sertifikaatin.</translation>
+        <translation>Avaa tiedostonvalintaikkunan, jossa voit valita mistä tuot varmenteen.</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -2484,7 +2484,7 @@ Puhu kovalla äänellä, aivan kuin olisit ärsyyntynyt tai kiihtynyt. Vähennä
     </message>
     <message>
         <source>Certificate Details</source>
-        <translation>Sertifikaatin tiedot</translation>
+        <translation>Varmenteen tiedot</translation>
     </message>
     <message>
         <source>Replace Certificate</source>
@@ -2544,7 +2544,7 @@ Haluatko varmasti korvata varmenteen?
     </message>
     <message>
         <source>This is the filename you wish to export a certificate to.</source>
-        <translation>Tämä on tiedostonimi, johon haluat viedä sertifikaatin.</translation>
+        <translation>Tämä on tiedostonimi, johon haluat viedä varmenteen.</translation>
     </message>
     <message>
         <source>Save As...</source>
@@ -3411,7 +3411,7 @@ Ilman tätä asetusta järjestelmänlaajuiset pikanäppäimet eivät toimi kysei
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mumble&apos;s Global Shortcuts system does currently not work in combination with the Wayland protocol. For more information, visit &lt;a href=&quot;https://github.com/mumble-voip/mumble/issues/5257&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;https://github.com/mumble-voip/mumble/issues/5257&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mumblen globaalit pikanäppäimet eivät tällä hetkellä toimi Waylandin kanssa. Katso lisätietoja osoitteesta &lt;a href=&quot;https://github.com/mumble-voip/mumble/issues/5257&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;https://github.com/mumble-voip/mumble/issues/5257&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -4726,7 +4726,7 @@ Tämä vaikuttaa vain uusiin viesteihin, vanhojen viestien aikaleima ei muutu.</
     </message>
     <message>
         <source>&lt;p&gt;You are about to register %1 on the server. This action cannot be undone, the username cannot be changed, and as a registered user, %1 will have access to the server even if you change the server password.&lt;/p&gt;&lt;p&gt;From this point on, %1 will be authenticated with the certificate currently in use.&lt;/p&gt;&lt;p&gt;Are you sure you want to register %1?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Olet rekisteröimässä käyttäjän %1 palvelimelle. Rekisteröintiä ei voi peruuttaa ja hänen käyttäjänimeä ei voida muuttaa, ja käyttäjällä %1 on rekisteröitynä pääsy palvelimelle vaikka salasanaa vaihdettaisiin.&lt;/p&gt;&lt;p&gt;Tästä lähtien käyttäjänimi %1 tunnistetaan nykyisen sertifikaatin kanssa.&lt;/p&gt;&lt;p&gt;Haluatko varmasti rekisteröidä käyttäjän %1 tälle palvelimelle?&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Olet rekisteröimässä käyttäjän %1 palvelimelle. Rekisteröintiä ei voi peruuttaa ja hänen käyttäjänimeä ei voida muuttaa, ja käyttäjällä %1 on rekisteröitynä pääsy palvelimelle vaikka salasanaa vaihdettaisiin.&lt;/p&gt;&lt;p&gt;Tästä lähtien käyttäjänimi %1 tunnistetaan nykyisen varmenteen kanssa.&lt;/p&gt;&lt;p&gt;Haluatko varmasti rekisteröidä käyttäjän %1 tälle palvelimelle?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Kicking user %1</source>
@@ -4754,7 +4754,7 @@ Tämä vaikuttaa vain uusiin viesteihin, vanhojen viestien aikaleima ei muutu.</
     </message>
     <message>
         <source>Server presented a certificate which failed verification.</source>
-        <translation>Palvelimen esittämän sertifikaatin vahvistus epäonnistui.</translation>
+        <translation>Palvelimen esittämän varmenteen vahvistus epäonnistui.</translation>
     </message>
     <message>
         <source>&lt;p&gt;%1&lt;/p&gt;&lt;ul&gt;%2&lt;/ul&gt;&lt;p&gt;The specific errors with this certificate are:&lt;/p&gt;&lt;ol&gt;%3&lt;/ol&gt;&lt;p&gt;Do you wish to accept this certificate anyway?&lt;br /&gt;(It will also be stored so you won&apos;t be asked this again.)&lt;/p&gt;</source>
@@ -4983,7 +4983,7 @@ Tämä vaikuttaa vain uusiin viesteihin, vanhojen viestien aikaleima ei muutu.</
     </message>
     <message>
         <source>&lt;b&gt;WARNING:&lt;/b&gt; The server presented a certificate that was different from the stored one.</source>
-        <translation>&lt;b&gt;VAROITUS:&lt;/b&gt; Palvelin esitti sertifikaatin, joka on eri kuin tallennettu.</translation>
+        <translation>&lt;b&gt;VAROITUS:&lt;/b&gt; Palvelin esitti varmenteen, joka on eri kuin tallennettu.</translation>
     </message>
     <message>
         <source>This server is using an older encryption standard, and is no longer supported by modern versions of Mumble.</source>
@@ -5517,7 +5517,7 @@ Muutoin keskeytä ja tarkista varmenteesi sekä käyttäjänimesi.</translation>
     </message>
     <message>
         <source>You need a certificate to perform this operation.</source>
-        <translation>Tarvitset sertifikaatin tähän toimintoon.</translation>
+        <translation>Tarvitset varmenteen tähän toimintoon.</translation>
     </message>
     <message>
         <source>%1 does not have a certificate.</source>
@@ -6256,46 +6256,28 @@ Valid actions are:
                 Stop talking
 
 </source>
-        <translation>Käyttö: mumble [valinnat] [&lt;url&gt;]
+        <translation>Käyttö: mumble rpc &lt;toiminto&gt; [valinnat]
 
-&lt;url&gt; määrittää URLn johon yhdistää käynnistymisen jälkeen sen sijaan että näytetään 
-liittymisikkuna. Osoite on muotoa:
-mumble://[&lt;käyttäjä&gt;[:&lt;salasana&gt;]@]&lt;osoite&gt;[:&lt;portti&gt;][/&lt;kanava&gt;[/&lt;alikanava&gt;...]][?versio=&lt;x.y.z&gt;]
+Mumblen käynnissä olevaa instanssia voidaan ohjata etänä
+&apos;mumble rpc&apos; komennolla.
 
-Versio-kyselyparametri täytyy asettaa jotta voidaan kutsua oikea versio asiakasohjelmasta. 
-Tällä hetkellä sen oletusarvo on 1.2.0.
-
-Päteviä valintoja ovat:
-  -h, --help    Näytä tämä aputeksti ja poistu.
-  -m, --multiple
-                Salli useamman esiintymän asiakasohjelmasta käynnistyä.
-  -c, --config
-                Määritä vaihtoehtoinen asetustiedosto. 
-                Jos käytät tätä ajaaksesi monia esiintymiä Mumblesta yhtä
-                aikaa, pidä huoli että määrittelet vaihtoehtoisen &apos;database&apos;
-                -arvon asetustiedostossa.
-  -n, --noidentity
-                Hiljennä identiteettitiedostojen (esim. sertifikaattien) lataus
-  -jn, --jackname &lt;arg&gt;
-                Aseta mukautettu Jack-asiakasohjelman nimi.
-  --license
-                Näytä Mumblen lisenssi.
-  --authors
-                Näytä Mumblen tekijät.
-  --third-party-licenses
-                Näytä kolmannen osapuolen ohjelmistojen lisenssit, joita
-                Mumble käyttää.
-  --window-title-ext &lt;arg&gt;
-                Asettaa mukautetun ikkunaotsikon päätteen.
-  --dump-input-streams
-                Kirjoittaa talteen PCM-virrat vaihtelevissa paikoissa
-                sisääntuloketjua (hyödyllistä vianetsinnässä)
-                - suora mikrofonin sisääntulo
-                - kuulokkeulostulon takaisinluku kaiunpoistoa varten
-                - käsitelty mikrofonin sisääntulo
-  --print-echocancel-queue
-                Tulosta stdout:iin kaiunpoiston jonon tila 
-                (hyödyllistä vianetsinnässä)
+Sallitut toiminnot ovat:
+  mute
+                Mykistä itsesi
+  unmute
+                Poista mykistyksesi
+  togglemute
+                Vaihda mykistyksesi tilaa
+  deaf
+                Hiljennä itsesi
+  undeaf
+                Poista hiljennyksesi
+  toggledeaf
+                Vaihda hiljennyksesi tilaa
+  starttalking
+                Aloita puhuminen
+  stoptalking
+                Lopeta puhuminen
 
 </translation>
     </message>
@@ -6360,7 +6342,65 @@ Valid options are:
                 Otherwise the locale will be permanently saved to
                 Mumble&apos;s settings.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttö: mumble [valinnat] [&lt;url&gt; | &lt;liitännäislista&gt;]
+
+&lt;url&gt; määrittää URL-osoitteen johon yhdistetään ilman, että
+näytetään yhdistämis-ikkuna ja se käyttää seuraavaa muotoa:
+mumble://[&lt;käyttäjänimi&gt;[:&lt;salasana&gt;]@]&lt;palvelin&gt;[:&lt;portti&gt;][/&lt;kanava&gt;[/&lt;alikanava&gt;...]][?version=&lt;x.y.z&gt;]
+
+&lt;liitännäislista&gt; on lista liitännäisistä jotka asennetaan
+Version-parametri täytyy olla määriteltynä kutsuttaessa
+oikeaa asiakasohjelman versiota. Oletuksena se on 1.2.0.
+
+Hyväksytyt valinnat ovat:
+  -h, --help    Näyttää tämän tekstin.
+  -m, --multiple
+                Sallii monen asiakasohjelman instannsin käynnistämisen.
+  -c, --config
+                Määritä vaihtoehtoinen asetustiedosto.
+                Jos käytät tätä monen asiakasohjelman suorittamiseen kerralla,
+                varmista, että käytät eri &apos;database&apos; arvoa asetuksissa.
+  --default-certificate-dir &lt;dir&gt;
+                Määritä vaihtoehtoinen oletuspolku varmenteille.
+                Tätä polkua käytetään vain mikäli varmennetta
+                ei määritetä asetuksissa.
+  -n, --noidentity
+                Älä lataa identiteettitiedostoja (esim. varmenteita).
+  -jn, --jackname &lt;arg&gt;
+                Määritä oma Jack-asiakasohjelman nimi.
+  --license
+                Näytä Mumblen lisenssi.
+  --authors
+                Näytä Mumblen tekijät.
+  --third-party-licenses
+                Näytä Mumblen käyttämien kolmansien osapuolten lisenssit.
+  --window-title-ext &lt;arg&gt;
+                Aseta oma ikkunan otsikon lisätieto.
+  --dump-input-streams
+                Tallenna PCM-virrat eri sisääntuloista
+                (hyödyllistä vianselvityksessä)
+                - raaka mikrofonin sisääntulo
+                - kaiuttimen tiedot kaiunpoistoa varten
+                - käsitelty mikrofonin sisääntulo
+  --print-echocancel-queue
+                Tulosta kaiunpoiston jonon tila
+                (hyödyllinen vianselvityksessä)
+  --translation-dir &lt;dir&gt;
+                Määritä vaihtoehtoinen käännös-kansio josta
+                Mumble etsii käännöstiedostoja ja käyttää niitä.
+                Tätä kansiota käytetään ensisijaisesti
+                oletus-kansioiden sijaan
+  --print-translation-dirs
+                Näyttää kansiot joista Mumble etsii käännöstiedostoja
+                käytettäväksi oletuksien sijaan.
+                (Hyödyllinen kääntäjille käännösten testaamiseen)
+  --locale &lt;locale&gt;
+                Ylikirjoittaa alue-määrityksen Mumblen asetuksissa
+                tässä antamallasi alue-määrityksellä.
+                Mikäli alue-määrityksen muoto on väärä, tulee virhe.
+                Muussa tapauksessa alue-määritys tallennetaan
+                pysyvästi Mumblen asetuksiin.
+</translation>
     </message>
     <message>
         <source>Directory %1 does not exist.
@@ -6841,7 +6881,7 @@ Estää mahdollisesti tunnistamista helpottavien tietojen, koskien käyttöjärj
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished">Overlay</translation>
+        <translation>Overlay</translation>
     </message>
     <message>
         <source>Choose executable</source>
@@ -8718,7 +8758,7 @@ Pääsypoletti on merkkijonoketju, jota voidaan käyttää salasanana yksinkerta
     </message>
     <message>
         <source>Certificate details</source>
-        <translation>Sertifikaatin tiedot</translation>
+        <translation>Varmenteen tiedot</translation>
     </message>
     <message>
         <source>Common Name</source>
@@ -8934,7 +8974,7 @@ Ota yhteyttä palvelintarjoajaan jos haluat lisätietoja.</translation>
     </message>
     <message>
         <source>Unable to start recording - the audio output is miconfigured (0Hz sample rate)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nauhoittamista ei voitu aloittaa - äänen ulostulo on konfiguroitu väärin (0Hz näytteenottotaajuus)</translation>
     </message>
 </context>
 <context>
